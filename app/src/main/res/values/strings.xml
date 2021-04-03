@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dx Minds</string>
+
+    <string name="stringTitle">Title:- %1$s</string>
+    <string name="stringDescription">Description:- %1$s</string>
+    <string name="stringUrl">Url:- %1$s</string>
+    <string name="stringPublished">Published Time:- %1$s</string>
+</resources>
